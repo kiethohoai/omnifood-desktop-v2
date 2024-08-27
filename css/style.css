@@ -41,3 +41,29 @@ body {
   font-weight: 400;
   color: #555;
 }
+
+/* ================= */
+/* //TODO HERO */
+/* ================= */
+.section-hero {
+}
+
+.hero {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  max-width: 130rem;
+  background-color: blue;
+}
+
+.hero-text-box {
+}
+.heading-primary {
+}
+.hero-description {
+}
+.btn {
+}
+
+.hero-image {
+  width: 100%;
+}
