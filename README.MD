@@ -2,3 +2,4 @@
 004 Sketching Initial Layout Ideas (Step 3)
 005 First Design and Development Steps (Step 4)
 006 Responsive Design Principles
+007 How rem and max-width Work
