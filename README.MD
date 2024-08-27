@@ -4,3 +4,4 @@
 006 Responsive Design Principles
 007 How rem and max-width Work
 008 Building the Hero - Part 1
+009 Building the Hero - Part 2
