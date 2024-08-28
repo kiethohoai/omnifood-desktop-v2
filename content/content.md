@@ -49,7 +49,8 @@ Kid-friendly
 
 ### Sample meals
 
-**Omnifood AI chooses from 5,000+ recipes**
+**
+.**
 
 Meal 1: Japanese Gyozas
 
