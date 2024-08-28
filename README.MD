@@ -11,3 +11,4 @@
 013 Setting Up a Reusable Grid
 014 Building the How-It-Works Section - Part 1
 015 Building the How-It-Works Section - Part 2
+016 Building the Featured-In Section
